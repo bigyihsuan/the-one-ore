@@ -10,7 +10,7 @@ There is only one ore (2 with coal? 3 with oil?) for you to mine. You have to pr
 There is a set progression, gated behind certain machines, and this items. There are 2 lines: one for vanilla, and one for Bob's:
 
 ```**Vanilla:**
-1.    Burner Crusher:     Makes iron and stone. (spawn with one. Stone) //All Crushers make Crushed Stone, allowing for stone to be made. 
+1.    Burner Crusher:     Makes iron and stone. (spawn with one. Stone) //All Crushers make Stone (the ore), allowing for stone to be made. 
 2.    Burner Sorter:      Makes copper (++), iron (+), slag (+)  (Needs iron)
 3a.   Electric Crusher:   An upgrade of the Burner Crusher. (needs Electronic Circuits -> Iron + Copper)
 3b.   Electric Sorter:    An upgrade to the Burner Sorter. (needs Electronic Circuits -> Iron + Copper)
