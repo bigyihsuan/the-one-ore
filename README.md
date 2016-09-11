@@ -4,8 +4,6 @@ A concept about refining ores, similar to Angel's Mods but simpler.
 ### The General Idea
 There is only one ore (2 with coal? 3 with oil?) for you to mine. You have to progressively process this single ore to get the other ores in vanilla (and hopefully Bob's Mods) Factorio.
 
-[[image of processing sequence here]]
-
 ### Progression
 There is a set progression, gated behind certain machines, and this items. There are 2 lines: one for vanilla, and one for Bob's:
 
@@ -18,5 +16,6 @@ There is a set progression, gated behind certain machines, and this items. There
 5a.   Advanced Liquefier: More efficient oil extraction? (Advanced Circuits)
 5b.   Packager:           Pack ores together to make more plates
 ```
+![](http://i.imgur.com/DH6tDSl.png)
 
 Bob's will follow a simmilar line to vanilla, TBD.
