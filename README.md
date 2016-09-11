@@ -18,4 +18,4 @@ There is a set progression, gated behind certain machines, and this items. There
 ```
 ![](http://i.imgur.com/DH6tDSl.png)
 
-Bob's will follow a simmilar line to vanilla, TBD.
+Bob's will follow a similar line to vanilla, TBD.
