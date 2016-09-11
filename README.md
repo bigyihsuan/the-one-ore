@@ -14,8 +14,8 @@ There is a set progression, gated behind certain machines, and this items. There
 2.    Burner Sorter:      Makes copper (++), iron (+), slag (+)  (Needs iron)
 3a.   Electric Crusher:   An upgrade of the Burner Crusher. (needs Electronic Circuits -> Iron + Copper)
 3b.   Electric Sorter:    An upgrade to the Burner Sorter. (needs Electronic Circuits -> Iron + Copper)
-4.    Liquifyer:          Water + ore = Crude Oil + Waste Water? (needs Electronic Circuits -> Iron + Copper)
-5a.   Advanced Liquifyer: More efficient oil extraction? (Advanced Circuits)
+4.    Liquefier:          Water + ore = Crude Oil + Waste Water? (needs Electronic Circuits -> Iron + Copper)
+5a.   Advanced Liquefier: More efficient oil extraction? (Advanced Circuits)
 5b.   Packager:           Pack ores together to make more plates
 ```
 
