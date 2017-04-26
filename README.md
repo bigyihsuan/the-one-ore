@@ -9,9 +9,9 @@ There is a set progression, gated behind certain machines, and this items. There
 
 ```**Vanilla:**
 1.    Burner Crusher:     Makes iron and stone. (spawn with one. Stone) //All Crushers make Stone (the ore), allowing for stone to be made. 
-2.    Burner Sorter:      Makes copper (++), iron (+), slag (+)  (Needs iron)
+2.    Burner Centrifuge:  Makes copper (++), iron (+), slag (+)  (Needs iron)
 3a.   Electric Crusher:   An upgrade of the Burner Crusher. (needs Electronic Circuits -> Iron + Copper)
-3b.   Electric Sorter:    An upgrade to the Burner Sorter. (needs Electronic Circuits -> Iron + Copper)
+3b.   Centrifuge:         Upgraded Burner Centrifuge. Added in 0.15.
 4.    Liquefier:          Water + ore = Crude Oil + Waste Water? (needs Electronic Circuits -> Iron + Copper)
 5a.   Advanced Liquefier: More efficient oil extraction? (Advanced Circuits)
 5b.   Packager:           Pack ores together to make more plates
