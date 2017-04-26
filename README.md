@@ -16,6 +16,5 @@ There is a set progression, gated behind certain machines, and this items. There
 5a.   Advanced Liquefier: More efficient oil extraction? (Advanced Circuits)
 5b.   Packager:           Pack ores together to make more plates
 ```
-![](http://i.imgur.com/DH6tDSl.png)
 
 Bob's will follow a similar line to vanilla, TBD.
